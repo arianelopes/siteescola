@@ -16,11 +16,47 @@ padding: 24px 0;
 
 } 
 
+.escola-div-conteudo{
 
-    .Cabeçalho-imagem{width: 18%
+width: 35%;
+
 }
+
+ .escola-titulo{
+
+padding: 24px 0;
+
+ }   
+
+ .escola-testo-um{
+
+padding: 24px 0;
+font-size: 17px;
+
+ }
 .cabeçalho-lista-iten{display: inline-block;
 margin: 0 16px;
 font-size: 24px;
 
 }
+
+.escola-texto-dois{
+padding: 24px 0;
+font-size: 17px;
+
+}
+.Cabeçalho-imagem{
+    width: 18%
+
+}
+
+.escola{
+
+
+    background-image: linear-gradient(#424e61,#4ebfe9);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+
